@@ -1,6 +1,6 @@
 # Week 3 Logical Agents
 
-Lectures: [video 1]()
+Lectures: [video 1](https://youtu.be/w6u_pZ1LORw)
 
 [Problems set 3](./Problems_03.pdf) return by the end of class.
 
