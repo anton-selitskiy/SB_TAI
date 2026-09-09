@@ -7,3 +7,6 @@
 
 [__week02__](./Week02/) __Search__
 - Adversarial Search
+
+[__week03__](./Week03/) __Logical Agents__
+- First Order Logic (FOL)
