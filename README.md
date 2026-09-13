@@ -10,3 +10,6 @@
 
 [__week03__](./Week03/) __Logical Agents__
 - First Order Logic (FOL)
+
+[__week04__](./Week04/) __Probability and Agents__
+- Logistic Regression and Perceptron
