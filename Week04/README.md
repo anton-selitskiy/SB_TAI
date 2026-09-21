@@ -1,6 +1,6 @@
 # Week 4 Probability and Agents
 
-Lectures: [video 1](), [video 2]()
+Lectures: [video 1](), [video 2](https://youtu.be/dIbjjAKkLeo)
 
 [Problems set 4](./problem_04.pdf) return by the end of class.
 

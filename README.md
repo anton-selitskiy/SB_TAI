@@ -13,3 +13,6 @@
 
 [__week04__](./Week04/) __Probability and Agents__
 - Logistic Regression and Perceptron
+
+[__week05__](./Week05/) __Probability and Agents__
+- Classification Metrics. Bayesian Methods
