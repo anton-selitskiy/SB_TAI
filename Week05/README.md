@@ -1,6 +1,6 @@
 # Week 5 Probability and Agents
 
-Lectures: [video 1](https://youtu.be/52_62b8x-pw), [video 2]()
+Lectures: [video 1](https://youtu.be/52_62b8x-pw), [video 2](https://youtu.be/E2HC2s-bwvU)
 
 [Problems set 5](./problems_05.pdf) return by the end of class.
 
