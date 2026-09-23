@@ -6,6 +6,6 @@ Lectures: [video 1](https://youtu.be/52_62b8x-pw), [video 2]()
 
 [Class notebook](./TAI7.ipynb) 
 
-[Problems set 6](./problems_06.ipynb) (by the end of the day)
+[Problems set 6](./problems_06.ipynb) (by the end of the day) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/SB_TAI/blob/main/Week05/problems_06.ipynb)
 
 [Homework 1 notebook](./HW_1.ipynb)
