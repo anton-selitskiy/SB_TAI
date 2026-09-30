@@ -1,4 +1,4 @@
-# Week 6 Multiclass Classification. Bandits
+# Week 6 Multiclass Classification. MLP and Torch
 
 Lectures: [video 1](), [video 2]()
 
@@ -7,3 +7,5 @@ Lectures: [video 1](), [video 2]()
 [Class notebook](./TAI9.ipynb) 
 
 [Presentation 9](./Lecture_9.pdf)
+
+[Class notebook (Torch)](./TAI10.ipynb) 

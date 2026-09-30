@@ -17,5 +17,5 @@
 [__week05__](./Week05/) __Probability and Agents__
 - Classification Metrics. Bayesian Methods
 
-[__week06__](./Week06/) __Multi-Arm Bandits__
-- Multiclass Classification. Bandits
+[__week06__](./Week06/) __MLP__
+- Multiclass Classification. Torch
