@@ -111,6 +111,6 @@ Build an agent that answers questions it cannot answer alone, by deciding which 
 - Library code is allowed, but every report explains the algorithm in the course's notation and reports at least one experiment the library does not run by default (an ablation, a comparison, a new environment).
 - Learning curves average at least 3 random seeds, with the spread shown.
 - Report the compute used: GPU hours or API cost.
-- Final presentation: 10 minutes, including a video or a live trace of the agent.
+- Final presentation: 15 minutes, including a video or a live trace of the agent.
 
-Open question: deadlines for the proposal, a progress check and the final presentation.
+Deadline for the proposal November 9.
