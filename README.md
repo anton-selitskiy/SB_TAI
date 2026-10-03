@@ -19,3 +19,5 @@
 
 [__week06__](./Week06/) __MLP__
 - Multiclass Classification. Torch
+
+[__Projects Description__](Progects.md)
