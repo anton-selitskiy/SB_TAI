@@ -20,4 +20,7 @@
 [__week06__](./Week06/) __MLP__
 - Multiclass Classification. Torch
 
-[__Projects Description__](Progects.md)
+[__week07__](./Week07/) __MDP__
+- Torch. Markov Decision Processes (MDP)
+
+[__Projects Description__](Progects.md)  [__GPU guide__](Jetstream2_GPU_Guide.md)
