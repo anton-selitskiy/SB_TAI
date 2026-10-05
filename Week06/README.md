@@ -1,6 +1,6 @@
 # Week 6 Multiclass Classification. MLP and Torch
 
-Lectures: [video 1](), [video 2]()
+Lectures: [video 1](https://youtu.be/eHws89T3A38)
 
 [Problems set 7](./problems_07.pdf) return by the end of class.
 
