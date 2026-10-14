@@ -23,4 +23,7 @@
 [__week07__](./Week07/) __MDP__
 - Torch. Markov Decision Processes (MDP)
 
+[__week08__](./Week08/) __Multi-Arm Bandits__
+- Bandits
+
 [__Projects Description__](Progects.md)  [__GPU guide__](Jetstream2_GPU_Guide.md)
