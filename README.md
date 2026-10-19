@@ -26,4 +26,7 @@
 [__week08__](./Week08/) __Multi-Arm Bandits__
 - Bandits
 
+[__week09__](./Week09/) __SARSA and Q-Leqrning__
+- SARSA and Q-Leqrning
+
 [__Projects Description__](Progects.md)  [__GPU guide__](Jetstream2_GPU_Guide.md)
