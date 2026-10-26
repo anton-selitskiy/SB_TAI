@@ -1,0 +1,7 @@
+# Week 10 DQN
+
+Lectures: [video 1]() [video 2]()
+
+[Problems set 11](./problems_11.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/SB_TAI/blob/main/Week10/problems_11.ipynb)
+
+[Presentation](Lecture16.pdf)

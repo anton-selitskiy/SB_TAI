@@ -1,4 +1,4 @@
-# Week 8 Bandits
+# Week 9 SARSA and Q-Learning
 
 Lectures: [video 1]()
 

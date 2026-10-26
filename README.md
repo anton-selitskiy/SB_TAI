@@ -29,4 +29,7 @@
 [__week09__](./Week09/) __SARSA and Q-Leqrning__
 - SARSA and Q-Leqrning
 
+[__week10__](./Week10/) __DQN__
+- DQN
+
 [__Projects Description__](Progects.md)  [__GPU guide__](Jetstream2_GPU_Guide.md)
