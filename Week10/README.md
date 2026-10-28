@@ -1,6 +1,6 @@
 # Week 10 DQN
 
-Lectures: [video 1](https://youtu.be/vfC5JxCZujU) [video 2]()
+Lectures: [video 1](https://youtu.be/vfC5JxCZujU) [video 2](https://youtu.be/9j-d3mw_M5c)
 
 [Problems set 11](./problems_11.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/SB_TAI/blob/main/Week10/problems_11.ipynb)
 
