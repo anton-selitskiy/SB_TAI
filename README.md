@@ -32,4 +32,7 @@
 [__week10__](./Week10/) __DQN__
 - DQN
 
+[__week11__](./Week11/) __LLM Agents__
+- LangGraph
+
 [__Projects Description__](Progects.md)  [__GPU guide__](Jetstream2_GPU_Guide.md)
