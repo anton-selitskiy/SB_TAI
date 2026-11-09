@@ -35,4 +35,7 @@
 [__week11__](./Week11/) __LLM Agents__
 - LangGraph
 
+[__week12__](./Week12/) __Sequence Modelling__
+- Word2Vec and RNN
+
 [__Projects Description__](Progects.md)  [__GPU guide__](Jetstream2_GPU_Guide.md)
