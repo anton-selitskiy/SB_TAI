@@ -1,6 +1,6 @@
 # Week 12 Sequence Modelling
 
-Lectures: [video 2]()
+Lectures: [video 2](https://youtu.be/aHlfWXyf9bo)
 
 Word2Vec [materials from LLM course](https://github.com/anton-selitskiy/RIT_LLM/tree/main/Week01_embeddings)
 
